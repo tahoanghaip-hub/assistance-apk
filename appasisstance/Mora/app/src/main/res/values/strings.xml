@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoraAssistant</string>
+    <string name="mora_ready">Mora Ready ✓</string>
+    <string name="game_view_content_description">Game view</string>
+</resources>

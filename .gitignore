@@ -1,0 +1,15 @@
+# Build output & caches
+/[Bb]uild/
+/[Bb]uilds/
+**/build/
+**/il2cpp_cache/
+*.dbg.so
+*.so
+*.apk
+*.aab
+
+# Gradle & IDE
+.gradle/
+local.properties
+.idea/
+*.iml
